@@ -15,15 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shashwatbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shashwatbytes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashwat45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwat45" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shashwatbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shashwatbytes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashwat45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat45" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shashwat45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashwat45" height="30" width="40" /></a>
+<a href="https://twitter.com/@shashwatbytes" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" alt="@shashwatbytes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashwat45" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="shashwat45" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shashwatbytes" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@shashwatbytes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashwat45" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="shashwat45" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shashwat45" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="shashwat45" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-451&show_icons=true&locale=en&layout=compact" alt="shashwat-451" /></p>
 
