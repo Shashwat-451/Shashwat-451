@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 <img align="right" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="400px" alt="coding">
 
