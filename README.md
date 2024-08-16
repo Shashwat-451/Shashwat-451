@@ -23,7 +23,9 @@
 </p>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-451&show_icons=true&locale=en&layout=compact" alt="shashwat-451" /></p>
 
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-451&" alt="shashwat-451" /></p>
 
